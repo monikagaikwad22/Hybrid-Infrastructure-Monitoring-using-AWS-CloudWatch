@@ -16,7 +16,6 @@ The solution gathers metrics from:
 All metrics are visualized in a single CloudWatch dashboard, along with automated alerting through SNS notifications.
 
 ---
-
 <img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 05_43_09 PM" src="https://github.com/user-attachments/assets/b8930c86-1207-4bff-ba34-4b0be445ee88" />
 
 
@@ -49,6 +48,7 @@ EC2 Instance → Metrics → Dashboard + Alarms → SNS (Email Alerts)
 ![WhatsApp Image 2026-03-23 at 4 13 41 PM](https://github.com/user-attachments/assets/9836d9d0-aac7-4570-aa33-0cdee8295f6b)
 
 
+
 ![WhatsApp Image 2026-03-23 at 4 14 14 PM](https://github.com/user-attachments/assets/0dca1e32-9ef8-4e5b-a9db-ecaae9c2df59)
 
 
@@ -60,6 +60,7 @@ EC2 Instance → Metrics → Dashboard + Alarms → SNS (Email Alerts)
 - Attached IAM Role with CloudWatch access permissions  
 
 ![WhatsApp Image 2026-03-23 at 4 16 00 PM](https://github.com/user-attachments/assets/2743474b-7364-4644-9462-f088374316c5)
+
 
 
 ![WhatsApp Image 2026-03-23 at 4 27 45 PM](https://github.com/user-attachments/assets/c77eed2c-ce51-417e-a9fd-cfe4446c8e62)
@@ -76,6 +77,7 @@ Metrics collected:
 - Disk usage  
 
 ![WhatsApp Image 2026-03-26 at 10 03 36 PM](https://github.com/user-attachments/assets/8db44d26-e8e5-4d21-8d72-0edcb43fc247)
+
 
 
 ![WhatsApp Image 2026-03-26 at 10 20 06 PM](https://github.com/user-attachments/assets/82185fd3-0071-4d17-8920-60fc8fb14c8c)
